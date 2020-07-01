@@ -1,0 +1,150 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+section.intro {
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 5%;
+    padding-left: 0%;
+    padding-bottom: 14%;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+
+}
+
+.intro1{
+    margin-left: 13%;
+    margin-top: 10%;
+}
+
+.intro-img{
+    width: 100%;
+}
+
+.bio-img{
+    width: 70%;
+}
+
+h1{
+    font-size: 50px;
+}
+
+#profile_name{
+    font-weight: bold;
+    color: rgb(236,76,122);
+    line-height: 0px;
+}
+
+.intro_p{
+    margin-top: 12%;
+    margin-bottom: 5%;
+    font-size: 15px;
+}
+
+.href_link{
+    text-decoration: none;
+    background: rgb(236,76,141);
+    color: white;
+    padding: 8px 25px;
+    border-radius: 5px;
+}
+
+section.biography {
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-top: 5%;
+    padding-left: 0%;
+    padding-bottom: 7%;
+}
+
+.bio1{
+    margin-left: 13%;
+}
+
+#bio_head{
+    line-height: 1px;
+}
+
+.bio_p{
+    margin-top: 10%;
+    margin-bottom: 7%;
+    font-size: 15px;
+}
+
+.bio2{
+    margin-top: 5%;
+}
+
+.work_img{
+    float: left;
+    width: 25%;
+    margin-left: 8%;
+}
+
+.work_img img{
+    width:100%;
+}
+
+.latest_work{
+    text-align: center;
+}
+
+section.latest_work {
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 0%;
+    padding-bottom: 0%;
+}
+
+section.client_feedback {
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 0%;
+    padding-bottom: 0%;
+    text-align: center;
+    height: 357px;
+}
+
+h6{
+    font-size: 20px;
+}
+
+.client_desig{
+    margin-top: -47px;
+    font-size: 15px;
+    color: grey;
+    margin-bottom: 40px;
+}
+
+.contact_info{
+    background: rgb(236,79,143);
+    width: 30%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px 60px;
+}
+
+.contact_info p{
+    color: white;
+}
+
+p.copyright {
+    margin-top: 10%;
+}
+
+.contact_info_inner{
+
+}
